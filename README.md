@@ -22,10 +22,11 @@ Além do meu comprometimento profissional, tenho interesses variados, desde astr
 ## Contato
 Sinta-se à vontade para entrar em contato comigo para discussões, colaborações ou apenas para compartilhar interesses em tecnologia e além.
 
-**Email:** [seuemail@example.com](mailto:seuemail@example.com)
+**Email:** [ricardokieltyka0@gmail.com](mailto:ricardokieltyka0@gmail.com)
 
 **LinkedIn:** [linkedin.com/in/ricardokieltyka](https://www.linkedin.com/in/ricardokieltyka/)
 
 **GitHub:** [github.com/seunome](https://github.com/seunome)
 
 Vamos conectar e explorar juntos o fascinante mundo da tecnologia! 🚀
+
