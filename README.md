@@ -3,7 +3,7 @@
 ## Sobre Mim
 Olá! Eu sou o Ricardo Kieltyka, um profissional apaixonado por tecnologia que fez uma notável transição de carreira. Iniciei minha jornada como almoxarife na Brandili, adquirindo sólida experiência em logística e gestão de estoques. Motivado pela paixão pela tecnologia, embarquei em uma jornada de estudos na Alura, focando em TI e desenvolvimento web.
 
-Atualmente, desempenho um papel crucial como assistente de atendimento ao suporte na Siscobra Sistemas, contribuindo para soluções eficientes. Sou versátil em hardware, especialmente em desktops gamers, e tenho habilidades em linguagens como HTML, CSS, JavaScript e SQL.
+Atualmente, desempenho um papel crucial como assistente de atendimento ao suporte na Siscobra Sistemas, contribuindo para soluções eficientes. Sou versátil em hardware, especialmente em desktops gamers. Competências:PostGreeSQL, Genexus, HTML, CSS.
 
 ## Habilidades em Tecnologias
 
@@ -14,7 +14,7 @@ Atualmente, desempenho um papel crucial como assistente de atendimento ao suport
 
 
 ## Certificações
-- Certificado em inglês (nível intermediário)
+- Certificado em inglês (nível Avançado)
 
 ## Interesses
 Além do meu comprometimento profissional, tenho interesses variados, desde astronomia até música, com uma inclinação eclética que abrange desde o heavy metal até os animes.
